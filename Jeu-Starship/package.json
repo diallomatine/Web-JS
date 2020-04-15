@@ -1,0 +1,28 @@
+{
+  "name": "fichiers-starship",
+  "version": "1.0.0",
+  "description": "Projet starShip : creation d'un jeu video simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitlab-etu.fil.univ-lille1.fr/dialloai/diallo_diallo_projectjs"
+  },
+  "keywords": [
+    "starship"
+  ],
+  "author": "Diallo-Diallo",
+  "license": "ISC",
+  "devDependencies": {
+    "copy-webpack-plugin": "^5.1.1",
+    "css-loader": "^3.4.2",
+    "file-loader": "^5.0.2",
+    "style-loader": "^1.1.3",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
