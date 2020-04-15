@@ -1,7 +1,7 @@
 # AUTEURS
 
 Diallo Abdoul Matine
-Diallo Aissatou Lamarana
+
 
 
 # MONGODB REACT
@@ -16,10 +16,9 @@ Approfondir Nos connaissances en NodeJs, express, utiliser une base de donnée e
 ## UTILISATION
 
 * Récupérer le projet par:
-**$ git pull ** depuis le dépôt https://gitlab-etu.fil.univ-lille1.fr/dialloai/diallo_diallo_projectjs.git**
+**$ git pull ** https://github.com/diallomatine/Web-JS/tree/master/mongoReact**
 
-* Se placer au dossier racine du projet par la commande
-**$ cd diallo_diallo_projectjs/mongoReact**
+* Se placer au dossier racine du projet
 
 * Créér un dossier data à la racine du projet, ensuite taper la commande :
 **mongod --dbpath data**
