@@ -16,10 +16,9 @@ Utilisation du module express de node.js avec les router, controllers et le côt
 ## UTILISATION
 
 * Récupérer le projet par:
-**$ git clone https://gitlab-etu.fil.univ-lille1.fr/dialloai/diallo_diallo_projectjs.git**
-* Se placer au dossier racine du projet par la commande
+**$ git clone https://github.com/diallomatine/Web-JS/tree/master/Jeu-Pong**
 
-**$ cd diallo_diallo_projectjs/ServerPong**
+
 * ensuite installer les modules nodes utilisés dans ce projet par:
 **$ npm install**
 
@@ -28,7 +27,7 @@ Utilisation du module express de node.js avec les router, controllers et le côt
 ## EXECUTION DU JEU
 
 * Lancer le serveur en tapant la commande suivante:
-**$  nodemon**
+**$  npm start**
 et lancer l'url suivante dans le navigateur : localhost:3000
 
 ## LE JEU - GAME
