@@ -1,0 +1,8 @@
+**A commande à executer dans l'ordre**
+git pull
+cd diallo_diallo_projectjs/mongoReact
+mongod --dbpath data
+mongoimport --db dbressources --collection ressources --type csv --file ./prices.csv --headerline
+npm install
+npm run build
+npm start

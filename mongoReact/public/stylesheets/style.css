@@ -1,0 +1,59 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+table
+{
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+td, th /* Mettre une bordure sur les td ET les th */
+{
+  padding: 10px;
+  border: 1px solid white;
+}
+#tab1 tr:hover{
+  border: 3px solid red;
+}
+.electricite{
+  background-color: rgba(128,255,128,0.5);
+}
+.eau{
+  background-color: rgba(128,128,255,0.5);
+}
+.gaz{
+  background-color: rgba(255,128,128,0.5);
+}
+canvas {
+  border: 1px dotted red;
+}
+
+#grapheContenaire{
+  /* position: relative; */
+  margin: 10px;
+  height: 80vh;
+  width: 40vw;
+}
+#ressources span{
+  padding: 10px;
+  margin-left: 3px;
+}
+#ressources{
+  border: 1px solid black;
+  padding : 10px;
+  width: 930px;
+}
+caption, th{
+  background-color: black;
+  color : white;
+}
+caption{
+  font-size: 1.8em;
+}
+#client,#data{
+  padding: 10px;
+  background-color: rgba(255,128,128,0.5);
+  width: 60px;
+  margin-bottom: 10px;
+}
