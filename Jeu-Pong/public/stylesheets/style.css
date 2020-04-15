@@ -1,0 +1,84 @@
+html {
+  background-color : rgba(0,0,0,0.5);
+}
+#field, #container, #fstPlayer{
+    display : block;
+    margin : auto;
+    background-color: white;
+    border : 10px solid black;
+
+}
+
+h1, h2, p{
+  color : black;
+  text-align: center;
+}
+
+h1, h2 {
+  text-decoration: underline;
+}
+
+#container {
+  width: 80%;
+  margin: 5% auto;
+}
+
+#body{
+  width: 75%;
+  margin: 5% auto;
+}
+
+a{
+  margin-left: 20.5%;
+  color: red;
+  font-weight: bold;
+}
+
+a:hover {
+  color: black;
+  transform: scale(2);
+}
+
+div#control {
+  text-align : center;
+  margin : 10px;
+}
+
+button {
+  font-size : 40px;
+}
+
+span#score{
+  display : inline-block;
+  width : 100px;
+  font-size : 30px;
+  text-align : right;
+  background-color : white;
+  padding : 4px;
+  margin : 4px;
+}
+
+table {
+  border: medium solid black;
+  border-collapse: collapse;
+  width: 50%;
+  margin: 0 auto;
+  }
+
+thead {
+    border: thin solid black;
+    width: 50%;
+    padding: 5px;
+}
+
+thead td {
+  font-weight: bold;
+}
+
+td {
+  font-family: sans-serif;
+  border: thin solid black;
+  width: 50%;
+  padding: 5px;
+  text-align: center;
+}
