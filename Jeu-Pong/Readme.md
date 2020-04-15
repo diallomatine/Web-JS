@@ -1,7 +1,6 @@
 # AUTEURS
 
 Diallo Abdoul Matine
-Diallo Aissatou Lamarana
 
 
 # Pong
